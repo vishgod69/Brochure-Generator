@@ -13,7 +13,7 @@ The program:
 * Translates the brochure into Spanish
 * Saves both brochures as `.md` files
 
-## Skills Demonstrated
+## Technologies and Capabilities
 
 * Python application development
 * OpenAI API integration
